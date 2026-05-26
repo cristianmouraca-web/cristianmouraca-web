@@ -17,5 +17,5 @@
  Berserk
 cnhecço linguagems e programas como :
 <p align="center">
-  <img src="imagens/excel.png" width="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="120">
 </p>
