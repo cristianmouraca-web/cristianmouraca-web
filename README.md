@@ -1,7 +1,6 @@
 ## Aoba chê
- Opa sou o Cristian, tenho 15 anos, gosto de jogar Hollow Knight, ver anime etc. Estudo sobre algoritmo, versionamentos etc. Estudo de maneira externa linguagens alem do próprio portugol como.
- Phyton
- C#
+ Opa sou o Cristian, tenho 15 anos, gosto de jogar Hollow Knight, ver anime etc. Estudo sobre algoritmo, versionamentos etc. Estudo de maneira externa linguagens alem do próprio portugol.
+
  É isso ai valeu.
  ## HOBBYS:
  Jogar jogos de RPG
@@ -16,3 +15,7 @@
  Demon Slayer
  Overlord
  Berserk
+cnhecço linguagems e programas como :
+<p align="center">
+  <img src="imagens/excel.png" width="300">
+</p>
