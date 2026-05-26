@@ -3,3 +3,16 @@
  Phyton
  C#
  É isso ai valeu.
+ ## HOBBYS:
+ Jogar jogos de RPG
+ Criar jogos de tabuleiro
+ Jogar videogame como: 
+ Hollow Knight
+ Undertale
+ Cuphead
+ Elder Ring
+ Ver animes como:
+ Jujutsu Kaisen
+ Demon Slayer
+ Overlord
+ Berserk
